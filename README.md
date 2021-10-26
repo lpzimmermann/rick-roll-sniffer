@@ -7,5 +7,6 @@ Too dumb that it's just a rick roll.... This here is a sniffer that pings IFTTT 
 
 QR-Code leads to http://coffee.lucienzimmermann.xyz, where my sniffer is deployed which redirects it to http://coffee-redirect.lucienzimmermann.xyz where the youtube link is.
 
+The sniffer makes a webhook call to IFTTT which then shows this happy message on my phone:
 ![image](https://user-images.githubusercontent.com/28627408/138963071-3da98008-5259-4074-afec-be7a178f18cf.png)
 
