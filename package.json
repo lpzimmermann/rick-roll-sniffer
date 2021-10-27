@@ -1,12 +1,12 @@
 {
-  "name": "rickroll",
+  "name": "rick-roll-sniffer",
   "version": "1.0.0",
-  "description": "",
+  "description": "random shenanigans of me",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Lucien Zimmermann",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
